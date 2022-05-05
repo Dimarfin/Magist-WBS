@@ -1,5 +1,5 @@
 # Magist-analysis
-It is a training project which include analysis of a company database with SQL and Tableau
+It is a training project which includes analysis of a company database with SQL and Tableau
 
 Eniac company is exploring an expansion to the Brazilian market. Data shows that Brazil has an eCommerce revenue similar to that of Spain and Italy: an already huge market with an even bigger potential for growth. The problem, for Eniac, is the lack of knowledge of such market. The company doesn’t have ties with local providers, package delivery services or customer service agencies. Creating these ties and knowing the market would take a lot of time, while the board of directors has demanded the expansion to happen within the next year.
 
