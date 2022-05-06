@@ -1,6 +1,6 @@
 USE magist;
 
-#--In relation to the products:
+#In relation to the products:
 #####################################################
 
 #. What categories of tech products does Magist have?
