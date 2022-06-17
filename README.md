@@ -1,4 +1,4 @@
-# Magist-analysis
+# Magist-WBS - Data analysis with SQL 
 It is a training project done withing a Data Science Boot Camp at the WBS Coding School https://www.wbscodingschool.com/
 It includes analysis of a company database with SQL and Tableau to get answers to certain business questions.
 
